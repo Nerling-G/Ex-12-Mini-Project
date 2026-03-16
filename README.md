@@ -1,2 +1,2 @@
-# Ex-12 Home Automation System with IOT.
+# Ex-12 Mini Project
 ## OUTPUT
